@@ -48,7 +48,10 @@ body{
     font-size: 20px;
 }
 
-#post{
-    background: white;
-    padding: 1em;
+#container #footer{
+    font-size: 25px;
+    background: gray;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
